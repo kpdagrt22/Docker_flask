@@ -1,2 +1,5 @@
 flask
 pytest
+Werkzeug==2.0.3
+gunicorn
+requests>=2.25.1
